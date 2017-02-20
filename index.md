@@ -4,8 +4,6 @@
 
 ![image of Candida albicans](https://tarshbates.files.wordpress.com/2015/11/bates_self-portrait_with_candida_albicans_2011.jpg?w=150&h=112)
 
-_Self-portrait with _Candida albicans__ (2011)
-
 
 #### BHA project
 I hope to design and print a micro-playground for _Candida albicans_.
